@@ -18,6 +18,17 @@ I'm a recent MPP graduate from Georgetown University's McCourt School of Public 
 
 Passionate about social justice, equity, and data-driven policymaking, I am a dedicated coder and data visualization enthusiast. With a strong belief in the power of technology to effect positive change, I strive to leverage my skills for impactful solutions. Committed to promoting equality and fairness, I am driven to create data-driven visualizations that amplify marginalized voices and uncover hidden patterns.  
   
+| Area of Data Analysis | Packages | Projects Used In | Familiarity |
+| --- | --- | --- | -- |
+| Data cleaning & wrangling |  `dplyr`, `lubridate`, `stringr`, `tidyverse` | *all projects* | :star: :star: :star: :star: :star: |
+| Geospatial analysis | `crsuggest`, `sf`, `tidycensus`, `tigris`, `tmap` | CCC transfer rates, Baltimore mortgage lending | :star: :star: :star: :star: :star: |
+| Data visualization | `ggplot2`, `shiny` | CCC transfer rates, Baltimore morgage lending, SNAP/WIC beneficiaries in California | :star: :star: :star: :star: :star: |
+| Supervised machine learning | `parsnip`, `recipes`, `rsample`, `workflows`, `tidymodels`, `tune`, `yardstick` | SNAP/WIC Beneficiaries in California | :star: :star: :star: |
+| Unsupervised machine learning | `broom`, `cluster`, `dendextend`, `factoextra`, `GGally` | SNAP/WIC beneficiaries in California | :star: :star: |
+| Application programming interfaces (APIs) | `censusapi`, `httr`, `jsonlite`, `purrr `, `tidycensus` | Analyzing Chicago homicides | :star: :star: :star: | 
+| Sentiment analysis | `SnowballC`, `tidytext` | SNAP/WIC beneficiaries in California | :star: :star: |
+
+
 
 <br/>  
 
@@ -42,7 +53,7 @@ Black applicants within the ideal <20% debt-to-income ratio bracket face exponen
 - criminal justice system and gender-based violence,
 - affirmative action and inequities in higher education, and
 - CALIFORNIA 🐻💙  
-  
+                                        
 
 🌊 Fun fact: I am training for the *2023 Swim for the Potomac* in September to compete in the 2.4 mile race!  
 
