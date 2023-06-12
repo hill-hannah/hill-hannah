@@ -21,7 +21,7 @@ Passionate about social justice, equity, and data-driven policymaking, I am a de
 | Area of Data Analysis | Packages | Projects Used In | Familiarity |
 | --- | --- | --- | -- |
 | Data cleaning & wrangling |  `dplyr`, `lubridate`, `stringr`, `tidyverse` | *all projects* | :star: :star: :star: :star: :star: |
-| Geospatial analysis | `crsuggest`, `sf`, `tidycensus`, `tigris`, `tmap` | CCC transfer rates, Baltimore mortgage lending | :star: :star: :star: :star: :star: |
+| Geospatial analysis | `arcgisbinding`, `crsuggest`, `sf`, `tidycensus`, `tigris`, `tmap` | CCC transfer rates, Baltimore mortgage lending | :star: :star: :star: :star: :star: |
 | Data visualization | `ggplot2`, `shiny` | CCC transfer rates, Baltimore morgage lending, SNAP/WIC beneficiaries in California | :star: :star: :star: :star: :star: |
 | Supervised machine learning | `parsnip`, `recipes`, `rsample`, `workflows`, `tidymodels`, `tune`, `yardstick` | SNAP/WIC Beneficiaries in California | :star: :star: :star: |
 | Unsupervised machine learning | `broom`, `cluster`, `dendextend`, `factoextra`, `GGally` | SNAP/WIC beneficiaries in California | :star: :star: |
