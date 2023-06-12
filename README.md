@@ -20,13 +20,13 @@ Passionate about social justice, equity, and data-driven policymaking, I am a de
   
 | Area of Data Analysis | Packages | Projects Used In | Familiarity |
 | --- | --- | --- | -- |
+| Application programming interfaces (APIs) | `censusapi`, `httr`, `jsonlite`, `purrr `, `tidycensus` | Chicago homicides, CCC transfer rates, Baltimore mortgage lending | :star: :star: :star: | 
 | Data cleaning & wrangling |  `dplyr`, `lubridate`, `stringr`, `tidyverse` | *all projects* | :star: :star: :star: :star: :star: |
-| Geospatial analysis | `arcgisbinding`, `crsuggest`, `sf`, `tidycensus`, `tigris`, `tmap` | CCC transfer rates, Baltimore mortgage lending | :star: :star: :star: :star: :star: |
-| Data visualization | `ggplot2`, `shiny` | CCC transfer rates, Baltimore morgage lending, SNAP/WIC beneficiaries in California | :star: :star: :star: :star: :star: |
-| Supervised machine learning | `parsnip`, `recipes`, `rsample`, `workflows`, `tidymodels`, `tune`, `yardstick` | SNAP/WIC Beneficiaries in California | :star: :star: :star: |
-| Unsupervised machine learning | `broom`, `cluster`, `dendextend`, `factoextra`, `GGally` | SNAP/WIC beneficiaries in California | :star: :star: |
-| Application programming interfaces (APIs) | `censusapi`, `httr`, `jsonlite`, `purrr `, `tidycensus` | Analyzing Chicago homicides | :star: :star: :star: | 
-| Sentiment analysis | `SnowballC`, `tidytext` | SNAP/WIC beneficiaries in California | :star: :star: |
+| Data visualization | `ggplot2`, `shiny` | CCC transfer rates, Baltimore morgage lending, SNAP/WIC beneficiaries in California, 2020 Median Salaries | :star: :star: :star: :star: :star: |
+| Geospatial analysis | `arcgisbinding`, `crsuggest`, `sf`, `tidycensus`, `tigris`, `tmap` | CCC transfer rates, Baltimore mortgage lending, Chicago homicides, lanternfly patterns, D.C. rat concentration | :star: :star: :star: :star: :star: |
+| Sentiment analysis | `SnowballC`, `tidytext` | SNAP/WIC beneficiaries in California, the Federalist papers, Shakespeare's plays | :star: :star: |
+| Supervised machine learning | `parsnip`, `recipes`, `rsample`, `workflows`, `tidymodels`, `tune`, `yardstick` | SNAP/WIC Beneficiaries in California, Palmer penguins | :star: :star: :star: |
+| Unsupervised machine learning | `broom`, `cluster`, `dendextend`, `factoextra`, `GGally` | SNAP/WIC beneficiaries in California, median household income-population-homeownership rate by state, 114th Senate votes | :star: :star: |
 
 
 
