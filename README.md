@@ -36,7 +36,7 @@ Passionate about social justice, equity, and data-driven policymaking, I am a de
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-🔭 I’m finishing an exploratory analysis of [mortgage lending](https://github.com/hill-hannah/baltimore-mortgage-lending.git) in Baltimore. 
+🔭 I recently finished an exploratory and geospatial analysis of [mortgage lending](https://github.com/hill-hannah/baltimore-mortgage-lending.git) in Baltimore. 
 
 - **Key finding:**
 Black applicants within the ideal <20% debt-to-income ratio bracket face exponentially higher denial rates than their White counterparts in the same, ideal DTIR bracket.
